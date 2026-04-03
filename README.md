@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @RustamDiniyev
-- 👀 I’m interested in Front-End Web Developer.
-- 🌱 I’m currently learning Coding World till to End.
-- 💞️ I’m looking to collaborate on someones who has goals to being the best Developer in life.
-- 📫 How to reach me - with misterdiniyev@gmail.com
+# Hi, I'm Rustam Diniyev
 
+Software Engineer building scalable real-time web applications.
 
+- Full-stack development (React, TypeScript, Python, FastAPI)
+- Real-time systems (WebSocket, Socket.IO)
+- AI-powered development workflows & multi-agent orchestration
+- Cloud infrastructure (Railway, Supabase, VPS)
+
+How to reach me: misterdiniyev@gmail.com
